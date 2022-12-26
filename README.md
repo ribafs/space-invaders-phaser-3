@@ -1,5 +1,11 @@
 # Space Invaders built with Phaser 3 and TypeScript
 
+## Execute:
+
+- npm i
+
+- npm run watch
+
 Another Space Invaders game 😂😂😂
 
 > It was based on [Phaser 2 Invader official tutorial][phaser2-invaders] but written in Phaser 3 and TypeScript. There were quite a lot of changes between Phaser 2 and 3 but I like version 3 better. It made the code much more readable and structure.
